@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity 
 - 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on fun/useful scripts
-- 📫 How to reach me patricklowe29@gmail.com 
+
 
 <!---
 lowep/lowep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
